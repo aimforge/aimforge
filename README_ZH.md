@@ -94,8 +94,16 @@
 - 支持邮箱：support@quwix.top
 
 ## 中国社媒
-Bilibili:[https://space.bilibili.com/3546726724012583]
-抖音:[https://www.douyin.com/user/MS4wLjABAAAAlY5sSgOexXu5dcT8hG3lMiMW8gqTy4b0Or1a9J5DVcTPMAGpOV6lrus79BLPpF7Y]
+<p align="left">
+<!-- B站 -->
+<a href="https://space.bilibili.com/3546726724012583">
+  <img src="https://img.shields.io/badge/Bilibili-粉色?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+<!-- 抖音 -->
+<a href="https://www.douyin.com/user/MS4wLjABAAAAlY5sSgOexXu5dcT8hG3lMiMW8gqTy4b0Or1a9J5DVcTPMAGpOV6lrus79BLPpF7Y">
+  <img src="https://img.shields.io/badge/Douyin-#000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+</p>
 <div align="center">
 
 **练枪是一种科学。**

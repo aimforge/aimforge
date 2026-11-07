@@ -92,6 +92,10 @@
 - 官网：<https://aimforge.org> · <https://aimforge.top>
 - 母品牌（Quwix）：<https://quwix.top>
 - 支持邮箱：support@quwix.top
+
+## 中国社媒
+Bilibili:[https://space.bilibili.com/3546726724012583]
+抖音:[https://www.douyin.com/user/MS4wLjABAAAAlY5sSgOexXu5dcT8hG3lMiMW8gqTy4b0Or1a9J5DVcTPMAGpOV6lrus79BLPpF7Y]
 <div align="center">
 
 **练枪是一种科学。**

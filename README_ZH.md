@@ -101,7 +101,7 @@
 </a>
 <!-- 抖音 -->
 <a href="https://www.douyin.com/user/MS4wLjABAAAAlY5sSgOexXu5dcT8hG3lMiMW8gqTy4b0Or1a9J5DVcTPMAGpOV6lrus79BLPpF7Y">
-  <img src="https://img.shields.io/badge/Douyin-#000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://p1-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/as_card_logo_v2_light~tplv-mlhdmxsy5m-image.image" />
 </a>
 </p>
 <div align="center">

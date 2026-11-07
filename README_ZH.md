@@ -76,7 +76,7 @@
 
 ## 快速开始
 
-1. 打开 **https://aimforge.org**（或 aimforge.top）
+1. 打开 <https://aimforge.org>（或 aimforge.top）
 2. 注册 → 完成基准测试（神经反应 / 记忆 / 肌肉记忆）
 3. 训练一局 → 运行 AI 分析 → 拿到你的雷达与训练处方
 
